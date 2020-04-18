@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Real Nitin Works"
-description: "Nitin's personal blog"
+title: "Mallesha Works"
+description: "Mallesha's personal blog"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://realnitinworks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://mallesha.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
@@ -31,9 +31,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: "realnitinworks" # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "mallesha_works" # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: "nitin_cherian" # site's Twitter username, e.g. "mmistakes"
+  username: "Mallesha Chari" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -87,22 +87,22 @@ defaults:
 
 # Site Author
 author:
-  name: "Nitin George Cherian"
+  name: "Mallesha"
   picture: "https://avatars3.githubusercontent.com/u/45361378?s=460&v=4"
-  email: "nitin.cherian@gmail.com"
-  twitter: "https://twitter.com/nitin_cherian"
+  email: "mallesha666@gmail.com"
+  twitter: "https://twitter.com/malleshahassan"
   links:
     - title: Github
-      url: "https://github.com/realnitinworks"
+      url: "https://github.com/mallesha/"
       icon: fab fa-github-square
     - title: Twitter
-      url: "https://twitter.com/nitin_cherian"
+      url: "https://twitter.com/Malleshahassan"
       icon: fab fa-twitter-square 
     - title: Stackoverflow
-      url: "https://stackoverflow.com/users/1220250/nitin-cherian?tab=profile"
+      url: "https://stackexchange.com/users/16275344/mallesha"
       icon: fab fa-stack-overflow 
     - title: Email
-      url: mailto:nitin.cherian@gmail.com
+      url: mailto:mallesha666@gmail.com
       icon: fas fa-envelope-square
 
 # Footer Links
