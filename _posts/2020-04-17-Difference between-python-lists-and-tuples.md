@@ -1,10 +1,10 @@
 ---
 layout: post
 comments: true
-title: Difference between Python "Lists" and "Tuples mallesha"
+title: Difference between Python "Lists" and "Tuples"
 ---
 
-Python lists and tuples seem to be no different for a beginner except that tuples are immutable and lists are mutable. However, what I have just mentioned is the __"Technical difference"__. But there is a __"Cultural difference"__ aspect to this discussion. Figuring out the "Cultural difference" allows us to answer the following questions: When do I use tuples? When do I use lists?
+Mallesh Python lists and tuples seem to be no different for a beginner except that tuples are immutable and lists are mutable. However, what I have just mentioned is the __"Technical difference"__. But there is a __"Cultural difference"__ aspect to this discussion. Figuring out the "Cultural difference" allows us to answer the following questions: When do I use tuples? When do I use lists?
 
 First, lets take a look into the similarities between lists and tuples
 
