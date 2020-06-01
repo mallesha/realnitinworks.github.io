@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Difference between Python "Lists" and "Tuples"
-date: 06-01-2020 11:10:10 -0000
+date: 01-06-2020 12:35:10 -0000
 ---
 
 SD-WAN MEF 70 standards applied on SD-WAN service providers will make standard way of delivering services.
